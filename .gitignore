@@ -1,0 +1,13 @@
+Debug/
+Release/
+ipch/
+
+*.aps
+*.opensdf
+*.sdf
+*.suo
+*.user
+
+win-event-log/MSG00409.bin
+win-event-log/MessageProvider.h
+win-event-log/MessageProvider.rc
